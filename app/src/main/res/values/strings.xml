@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone No</string>
+    <string name="pax">Pax No</string>
+    <string name="smoking">Smoking</string>
+    <string name="confirm">Reserve</string>
+    <string name="reset">RESET</string>
+    <string name="day">Day</string>
+    <string name="time">Time</string>
+</resources>
